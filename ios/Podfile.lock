@@ -1,0 +1,28 @@
+PODS:
+  - Flutter (1.0.0)
+  - permission_handler_apple (9.3.0):
+    - Flutter
+  - wifi_signal_strength (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
+  - wifi_signal_strength (from `.symlinks/plugins/wifi_signal_strength/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  permission_handler_apple:
+    :path: ".symlinks/plugins/permission_handler_apple/ios"
+  wifi_signal_strength:
+    :path: ".symlinks/plugins/wifi_signal_strength/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  permission_handler_apple: 9878588469a2b0d0fc1e048d9f43605f92e6cec2
+  wifi_signal_strength: e4bcc955d96eecc591b4246355759a7e7fad5077
+
+PODFILE CHECKSUM: 11c1e2039202885646c584c9bf93b17959807bd1
+
+COCOAPODS: 1.12.0
